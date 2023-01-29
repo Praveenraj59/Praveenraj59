@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Praveenraj
 
---
+<!--
 **Praveenraj59/Praveenraj59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---
+-->
+
 import {getStatsSVGWithThemeName} from '../../src/cards/stats-card';
 import {changToNextGitHubToken} from '../utils/github-token-updater';
 import {getErrorMsgCard} from '../utils/error-card';
