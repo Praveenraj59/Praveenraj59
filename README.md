@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Praveenraj</h1>
 <h3 align="center">A passionate developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://twitter.com/pravveee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pravveee" height="30" width="40" /></a>
+<a href="https://twitter.com/pravveee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pravveee" height="20" width="70" /></a>
 <a href="https://linkedin.com/in/praveenraj-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveenraj-p" height="30" width="40" /></a>
 </p>
 
