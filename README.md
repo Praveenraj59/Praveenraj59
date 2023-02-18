@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveenraj</h1>
 <h3 align="center">A passionate developer</h3>
 <!--
+<h3>💫About Me:</h3>
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/pravveee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pravveee" height="20" width="70" /></a>
