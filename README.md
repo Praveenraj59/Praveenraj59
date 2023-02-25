@@ -3,6 +3,7 @@
 <!--
 <h3>💫About Me:</h3>
 <li>🌱 I’m currently learning Machine Learning</li>
+<li>💬 Ask me about Python,Java,C,DSA</li>
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/pravveee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pravveee" height="20" width="70" /></a>
