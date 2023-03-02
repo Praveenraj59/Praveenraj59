@@ -21,56 +21,23 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenraj59&" alt="praveenraj59" /></p>
 --->
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Praveenraj59 
-chanakyha
-/
-chanakyha
-Public
-Fork your own copy of chanakyha/chanakyha
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-chanakyha/README.md
-@chanakyha
-chanakyha Twitter Updated
-Latest commit 5ced537 on Dec 29, 2022
- History
- 1 contributor
-45 lines (29 sloc)  4.07 KB
-
-<img src="banner.jpeg">
 
 
-<h1 align="center">Hi 👋, I'm Chanakyha</h1>
-<h3 align="center">A Full Stack Developer and Python Programmer</h3>
+<h1 align="center">Hi 👋, I'm Praveenraj</h1>
+<h3 align="center">A Developer and  Programmer</h3>
 
 <p align="left"> <a href="https://twitter.com/chanakyha_dev" target="blank"><img src="https://img.shields.io/twitter/follow/chanakyha_dev?logo=twitter&style=for-the-badge" alt="chanakyha_vetri" /></a> </p>
 
 # 💫 About Me:
 - 🌱 I’m currently learning <b>Next.Js, Firebase and Sanity</b>
-- 👨‍💻 All of my projects are available at https://chanakyha-coder.xyz/#portfolio
-- 📫 How to reach me vetrichanakyha2003@gmail.com
-- 📄 Know about my experiences https://chanakyha-coder.xyz
+- 📫 How to reach me praveenpaulraj59@gmail.com
 - ⚡ Fun fact I am a Student<br>
 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanakyha-vetrichelvan-21025b135/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Vetrichanakyha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Chanakyha_Vetri)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__._chanakyha_.__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveenraj-p-80b4b7249/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Pravveee)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pravveee)
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
