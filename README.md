@@ -49,3 +49,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Praveenraj59&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
+### 😂 Github Graph eaten by a snake
+<img src="https://github.com/chanakyha/chanakyha/blob/output/github-contribution-grid-snake.svg">
