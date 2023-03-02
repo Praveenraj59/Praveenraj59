@@ -29,7 +29,7 @@
 
 
 # 💫 About Me:
-- 🌱 I’m currently learning <b>Next.Js, Firebase and Sanity</b>
+- 🌱 I’m currently learning <b>Blockchain</b>
 - 📫 How to reach me praveenpaulraj59@gmail.com
 - ⚡ Fun fact I am a Student<br>
 
