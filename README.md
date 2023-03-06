@@ -8,7 +8,7 @@
 - 📫 How to reach me praveenpaulraj59@gmail.com
 - ⚡ Fun fact I am a Student<br>
 
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveenraj-p-80b4b7249/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Pravveee)
