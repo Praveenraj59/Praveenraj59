@@ -7,7 +7,7 @@
 # 💫 About Me:
 - 🌱 I’m currently learning <b>Next.Js</b>
 - 📫 How to reach me praveenpaulraj59@gmail.com
-- - 📄 Know about my experiences https://portfolio-praveenraj.vercel.app
+- 📄 Know about my experiences https://portfolio-praveenraj.vercel.app
 - ⚡ Fun fact I am a Student<br>
 
  
