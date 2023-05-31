@@ -5,10 +5,11 @@
  
 
 # 💫 About Me:
-- 🌱 I’m currently learning <b>Augmented reality</b>
+- 🌱 I’m currently learning <b>Next.Js</b>
 - 📫 How to reach me praveenpaulraj59@gmail.com
+- - 📄 Know about my experiences https://portfolio-praveenraj.vercel.app
 - ⚡ Fun fact I am a Student<br>
-- 📄 Know about my experiences https://portfolio-praveenraj.vercel.app
+
  
 
 ## 🌐 Socials:
