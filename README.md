@@ -5,7 +5,7 @@
  
 
 # 💫 About Me:
-- 🌱 I’m currently learning <b>Blockchain, Machine Learning</b>
+- 🌱 I’m currently learning <b>Augmented reality</b>
 - 📫 How to reach me praveenpaulraj59@gmail.com
 - ⚡ Fun fact I am a Student<br>
 
