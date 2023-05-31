@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning <b>Augmented reality</b>
 - 📫 How to reach me praveenpaulraj59@gmail.com
 - ⚡ Fun fact I am a Student<br>
-- 📄 Know about my experiences <a href="portfolio-praveenraj.vercel.app"> Personal website</a>
+- 📄 Know about my experiences https://portfolio-praveenraj.vercel.app
  
 
 ## 🌐 Socials:
